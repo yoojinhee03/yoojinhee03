@@ -3,6 +3,10 @@
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=yoojinhee03&show_icons=true">
 </div>
+<div>
+    <img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/yoojinhee030207">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoojinhee03@gmail.com">
+</div>
 
 <!--
 **yoojinhee03/yoojinhee03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
