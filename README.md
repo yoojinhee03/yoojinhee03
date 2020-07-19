@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yoojinhee🙈🙉
 <div>
     <img 
         src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev"
@@ -7,7 +7,7 @@
         src="https://img.shields.io/github/followers/AlpoxDev?label=AlpoxDev%20Followers&style=social"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
-
+![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=Kinetic27&show_icons=true)
 <!--
 **yoojinhee03/yoojinhee03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
