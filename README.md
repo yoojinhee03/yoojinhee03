@@ -7,8 +7,7 @@
         src="https://img.shields.io/github/followers/AlpoxDev?label=AlpoxDev%20Followers&style=social"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/yoojinhee030207/)](https://www.facebook.com/zzsza)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:yoojinhee03@gmail.com)
+
 <!--
 **yoojinhee03/yoojinhee03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
