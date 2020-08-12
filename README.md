@@ -21,5 +21,3 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yoojinhee03&show_icons=true&theme=synthwave)
-
-![footer](https://capsule-render.vercel.app/api?type=Rect&color=timeGradient&height=70&section=footer)
