@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20there,%20I'm%20Yoojinhee👋&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20there,%20I'm%20Yoojinhee👋&fontSize=50)
  <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoojinhee03)](https://hits.seeyoufarm.com)
 -->
