@@ -4,9 +4,7 @@
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoojinhee03&layout=compact)](https://github.com/yoojinhee03/yoojinhee03)  
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=yoojinhee03&show_icons=true">
-</div>
+
 
 
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/yoojinhee030207)](https://www.facebook.com/yoojinhee030207)
