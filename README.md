@@ -19,5 +19,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoojinhee03&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/yoojinhee03/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yoojinhee03&show_icons=true&theme=tokyonight)
