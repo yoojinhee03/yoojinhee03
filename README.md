@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Yoojinhee👋&fontSize=35)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Yoojinhee👋&fontSize=35)
  <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoojinhee03)](https://hits.seeyoufarm.com)
 -->
@@ -22,4 +22,4 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yoojinhee03&show_icons=true&theme=synthwave)
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=Rect&color=timeGradient&section=footer)
