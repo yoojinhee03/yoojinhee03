@@ -4,8 +4,7 @@
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoojinhee03&layout=compact)](https://github.com/yoojinhee03/yoojinhee03)  
-
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yoojinhee03&show_icons=true&theme=radical)
 
 
 <!--
