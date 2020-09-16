@@ -9,12 +9,13 @@
 -->
 
 <!-- - 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning spring<!-- - 👯 I’m looking to collaborate on ...--><!-- - 🤔 I’m looking for help with ... - 💬 Ask me about ...-->
+- 🏫 High school graduate: Mirim girl's Information Science High School
+- 🌱 I’m currently learning Spring<!-- - 👯 I’m looking to collaborate on ...--><!-- - 🤔 I’m looking for help with ... - 💬 Ask me about ...-->
 - 📫 How to reach me: 
 [![Facebook ](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/yoojinhee030207)](https://www.facebook.com/yoojinhee030207)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoojinhee03@gmail.com)](mailto:yoojinhee03@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 I'm interested Machine Learning & Deep Learning
+- ⚡ Fun fact:  I entered school early.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoojinhee03&layout=compact&show_icons=true&theme=nightowl)](https://github.com/yoojinhee03/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yoojinhee03&show_icons=true&theme=nightowl)
